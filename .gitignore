@@ -1,8 +1,3 @@
-#  Input.Output
-
-## Running
-
-```bash
-$ javac IO.java
-$ java IO
-```
+# Compiled class file
+*.class
+*.DS_Store
